@@ -104,7 +104,7 @@
       ec2_vpc_route_table:
         vpc_id: "{{vpcout.vpc.id}}"
         region: "{{ region }}"
-        tag:
+        tags:
           Name: VProfile-PubRT
         subnets:
           - "{{pubsub1_out.subnet.id}}"
