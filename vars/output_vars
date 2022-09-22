@@ -3,9 +3,9 @@ pubsub1id: subnet-0bc20497da17b4854
 pubsub2id: subnet-0c3e906a7ff7c30ae
 pubsub3id: subnet-0226b411103364441
 privsub1id: subnet-01258a0a52de50c70
-privsub2id: subnet-01316143b39255c68
+privsubwid: subnet-01316143b39255c68
 privsub3id: subnet-02b3718f48249a94e
 igwid: igw-001ca7f9724ccda29
 pubRTid: rtb-035171ec1077ce79a
-NATGWid: nat-043ebd0340f021e16
+NATGWid: nat-0edfdeb67dc96ff9c
 privRTid: rtb-0620206cbcf1febf1
